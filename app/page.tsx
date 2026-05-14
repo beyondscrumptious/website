@@ -36,7 +36,7 @@ export default function HomePage() {
 
           <div className="flex gap-4 justify-center flex-wrap">
             <a
-              href="/gallery"
+              href="#"
               className="px-8 py-4 bg-white text-black rounded-full hover:scale-105 transition"
             >
               Explore Our Work
